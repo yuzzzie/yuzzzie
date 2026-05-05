@@ -24,13 +24,13 @@ Welcome to my GitHub profile! I'm a passionate learner diving deep into Python, 
 
 ## 📊 GitHub Stats
 
-![Yuzi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuzzzie&show_icons=true&theme=radical)
+![Yuzi's GitHub Stats](https://github-readme-stats.yuzzzie.vercel.app/api?username=yuzzzie&show_icons=true&theme=radical)
 
 ---
 
 ## 📈 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuzzzie&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.yuzzzie.vercel.app/api/top-langs/?username=yuzzzie&layout=compact&theme=radical)
 
 ---
 
