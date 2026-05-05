@@ -22,9 +22,9 @@ Welcome to my GitHub profile! I'm a passionate learner diving deep into Python, 
 
 ---
 
-## 📊 GitHub Stats
+## 🎵 Listening to
 
-![Yuzi's GitHub Stats](https://github-readme-stats.yuzzzie.vercel.app/api?username=yuzzzie&show_icons=true&theme=radical)
+[<img src="https://spotify.yuzzzie.vercel.app/api/orchestrator" width="690" />](https://open.spotify.com/user/31j7kdwf73vhwnjiweip6h4xzrpq)
 
 ---
 
