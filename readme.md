@@ -1,16 +1,16 @@
-# Hey there! 👋 I'm Yuzi
+# *Hey there! 👋 I'm Yuzi*
 
 Welcome to my GitHub profile! I'm a passionate learner diving deep into Python, JavaScript, HTML, and CSS. I enjoy building things that solve real-world problems while growing my coding skills.
 
 ---
 
-## 🛠 Tech Stack I'm Learning
+## 🛠 *Tech Stack I'm Learning*
 
 ![Skills](https://skillicons.dev/icons?i=py,go,js,cs,nodejs,selenium,bots,raspberrypi,vscode,ubuntu,windows)
 
 ---
 
-## 🎯 What I’m Focused On
+## 🏷️ *What I'm Working On*
 
 - Building things that make life easier and more fun.
 - Learning Python, Go, JavaScript, Node.js, and C#.
@@ -20,19 +20,19 @@ Welcome to my GitHub profile! I'm a passionate learner diving deep into Python, 
 
 ---
 
-## 🎵 Listening to
+## 🎵 *Listening to*
 
 [<img src="https://spotify.yuzzzie.vercel.app/api/orchestrator" width="690" />](https://open.spotify.com/user/31j7kdwf73vhwnjiweip6h4xzrpq)
 
 ---
 
-## 📈 Most Used Languages
+## 📈 *Most Used Languages*
 
 ![Top Languages](https://github-readme-stats.yuzzzie.vercel.app/api/top-langs/?username=yuzzzie&layout=compact&theme=radical)
 
 ---
 
-## 🧑‍💻 Let's Connect!
+## 🧑‍💻 *Let's Connect!*
 
 - [![Twitter](https://img.shields.io/twitter/follow/yuzzziee?style=social)](https://x.com/yuzzziee)
 - Feel free to explore my repositories and get in touch if you'd like to collaborate!
