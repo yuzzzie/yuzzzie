@@ -6,19 +6,17 @@ Welcome to my GitHub profile! I'm a passionate learner diving deep into Python, 
 
 ## 🛠 Tech Stack I'm Learning
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Skills](https://skillicons.dev/icons?i=py,go,js,cs,nodejs,selenium,bots,raspberrypi,vscode,ubuntu,windows)
 
 ---
 
 ## 🎯 What I’m Focused On
 
-- Learning **Python** programming to create applications.
-- Exploring **full-stack web development** to build dynamic websites.
-- Mastering **HTML, CSS,** and **JavaScript** for front-end development.
+- Building things that make life easier and more fun.
+- Learning Python, Go, JavaScript, Node.js, and C#.
+- Exploring AI, automation, and open-source projects.
+- Building smart Raspberry Pi projects and self-hosting services.
+- Listening to music while coding.
 
 ---
 
