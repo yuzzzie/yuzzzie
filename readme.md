@@ -34,5 +34,5 @@ Welcome to my GitHub profile! I'm a passionate learner diving deep into Python, 
 
 ## 🧑‍💻 *Let's Connect!*
 
-- [![Twitter](https://img.shields.io/twitter/follow/yuzzziee?style=social)](https://x.com/yuzzziee)
+- [![Twitter](https://img.shields.io/twitter/follow/yuzzzie?style=social)](https://x.com/yuzzzie)
 - Feel free to explore my repositories and get in touch if you'd like to collaborate!
