@@ -17,13 +17,13 @@ Welcome to my GitHub profile! I'm a passionate learner diving deep into Python, 
 - Exploring AI, automation, and open-source projects.
 - Building smart Raspberry Pi projects and self-hosting services.
 - Listening to music while coding.
-
+<!-- Needs to be fixed
 ---
 
 ## 🎵 *Listening to*
 
 [<img src="https://spotify.yuzzzie.vercel.app/api/orchestrator" width="690" />](https://open.spotify.com/user/31j7kdwf73vhwnjiweip6h4xzrpq)
-
+-->
 ---
 
 ## 📈 *Most Used Languages*
